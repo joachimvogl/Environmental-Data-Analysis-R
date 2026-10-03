@@ -1,0 +1,16 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# knitr / rmarkdown intermediates
+*_cache/
+*_files/
+*.knit.md
+*.utf8.md
+
+# OS files
+.DS_Store
+Thumbs.db
