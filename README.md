@@ -1,6 +1,6 @@
 # Environmental Data Analysis in R
 
-Statistical modeling of ecological and climate data in R: correlation, linear regression, and trend analysis using long-term ecological datasets.
+Statistical modeling of natural resource and environmental data in R: correlation, linear regression, and trend analysis using ecological datasets
 
 ## Projects
 
